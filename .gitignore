@@ -1,0 +1,8 @@
+# Ignore Visual Studio Code directories
+.vs/
+
+# Ignore obj directory
+obj/
+
+# Ignore Properties directory
+Properties/
